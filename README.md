@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fahadkhandev
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
-- 📫 How to reach me @Fahad.personal.info@gmail.com
+- 📫 How to reach me @fahadkhandev@gmail.com
 
 <!---
 fahadkhandev/fahadkhandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
